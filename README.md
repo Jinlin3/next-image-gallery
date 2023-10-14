@@ -1,3 +1,5 @@
+# Information
+This website was creating following [Coding in Flow's Tutorial](https://www.youtube.com/watch?v=fqfer6xMp2A&t=2574s) on NextJS.
 ## Notes
 * App Router comes with only 2 default pages: page.tsx and layout.tsx
 * page.tsx = old index.tsx
