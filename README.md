@@ -10,4 +10,4 @@ This website was creating following [Coding in Flow's Tutorial](https://www.yout
 ## Special pages/files
 * error.tsx: old 500 page (must be client-side)
 * not-found.tsx: old 404 page
-* loading page: default page that shows when it takes a while to load
+* loading.tsx: default loading page that displays
